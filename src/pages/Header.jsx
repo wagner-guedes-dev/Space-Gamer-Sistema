@@ -3,7 +3,7 @@ import { collection, addDoc } from 'firebase/firestore';
 import { db } from '../firebase'; // Altere o caminho conforme necessário
 import ArrowBackIosIcon from '@mui/icons-material/ArrowBackIos';
 import Carousel from './Carousel.jsx'
-import "./header.css"
+import "./Header.css"
 import logo from "../images/logo.png"
 import SpaceBurguer from "../images/spaceburguer.jpg"
 import SpaceIce from "../images/spaceice.jpg"
