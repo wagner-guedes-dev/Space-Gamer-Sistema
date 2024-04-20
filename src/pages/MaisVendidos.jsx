@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import './MaisVendidos.css'
+import './maisVendidos.css'
 
 import estrela from '../images/estrela.png'
 import sensaçao from '../images/tacasensacao.png'
